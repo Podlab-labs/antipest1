@@ -1,0 +1,25 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* Give the logo a bit more room in the nav bar */
+.navbar-brand {
+    height: 96px;
+}
+
+.navbar-brand img {
+    max-height: 76px;
+}
