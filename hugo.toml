@@ -4,6 +4,9 @@ theme = "hugo-universal-theme"
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
+# Interpret bare dates (e.g. `date = 2026-07-22` with no time/offset) in this
+# timezone instead of UTC, so same-day posts aren't hidden as "future" content.
+timeZone = "Australia/Sydney"
 
 # number of words of summarized post content (default 70)
 summaryLength = 70

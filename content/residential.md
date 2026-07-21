@@ -21,6 +21,8 @@ control, with rapid response times and solutions built around you.
 - Birds and bird lice
 - Stored product pests (weevils)
 - Bees and wasps
+- Wasps
+- and more
 
 ## Our Approach
 
@@ -33,7 +35,7 @@ to routine preventative visits - using environmentally sustainable practices thr
 After an assessment of your property, we provide:
 
 - Treatment installation
-- A detailed report identifying any cleaning or repairs needed
+- A detailed report identifying any cleaning or repairs needed and information on what was performed on the property
 - Prevention measures against future infestations
 
 ## Why It Matters
