@@ -28,7 +28,7 @@ Cache-Control = "no-cache, no-store, must-revalidate"
         shortname = ""
     # Enable Google Analytics by entering your tracking code
     [services.googleAnalytics]
-        id = ""
+        id = "G-BN8JG4JR7E"
 
 # Define the number of posts per page
 [pagination]
