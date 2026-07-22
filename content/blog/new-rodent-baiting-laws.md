@@ -1,7 +1,7 @@
 +++
 title = "New APVMA Rodent Baiting Laws"
 date = 2026-07-22
-description = "New Australian Pesticides and Veterinary Medicines Authority (APVMA) rodent baitimg laws and how this affects residential and business owners"
+description = "New Australian Pesticides and Veterinary Medicines Authority (APVMA) rodent baiting laws and how this affects residential and business owners"
 keywords = ["rodents", "rats", "mice", "Bowen Mountain", "pest control"]
 banner = "img/blog/rat-image.jpg"
 +++
