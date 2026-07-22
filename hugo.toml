@@ -212,7 +212,7 @@ Cache-Control = "no-cache, no-store, must-revalidate"
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pest control tips and news for Hawkesbury homes and businesses. Check back soon."
+    subtitle = "Pest control tips and news for Hawkesbury and surrounding homes and businesses. Check back soon."
     hide_summary = false
 
 [params.footer.recent_posts]
